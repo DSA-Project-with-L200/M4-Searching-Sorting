@@ -1,0 +1,25 @@
+Algorithm,N,TimeNanoseconds
+Selection Sort,100,578900
+Insertion Sort,100,263900
+Merge Sort,100,50400
+Quick Sort,100,54600
+Selection Sort,500,4067000
+Insertion Sort,500,4034900
+Merge Sort,500,450300
+Quick Sort,500,343600
+Selection Sort,1000,2641500
+Insertion Sort,1000,3497800
+Merge Sort,1000,263200
+Quick Sort,1000,219200
+Selection Sort,5000,27527200
+Insertion Sort,5000,25582300
+Merge Sort,5000,5115200
+Quick Sort,5000,633100
+Selection Sort,10000,63106900
+Insertion Sort,10000,127177000
+Merge Sort,10000,809700
+Quick Sort,10000,665400
+Selection Sort,50000,3104799800
+Insertion Sort,50000,12658667400
+Merge Sort,50000,10858000
+Quick Sort,50000,7982300
